@@ -11,8 +11,8 @@ class App extends React.Component<AppProps, undefined> {
     render() {
         return (
             <div className="app">
-                <h1>Hello World!</h1>
-                <p>Foo to the barz</p>
+                <h1>StilusCode</h1>
+                <p>powered by Kaiser</p>
                 <img src={reactLogo} height="480"/>
             </div>
         );
