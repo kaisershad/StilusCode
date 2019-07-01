@@ -1,5 +1,5 @@
 {
-  "name": "stilus-code",
+  "name": "stiluscode",
   "version": "0.0.1",
   "description": "Webapp Stilus Code",
   "keywords": [
@@ -11,12 +11,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaisershad/stilus-code.git"
+    "url": "git+https://github.com/kaisershad/stiluscode.git"
   },
   "bugs": {
-    "url": "https://github.com/kaisershad/stilus-code/issues"
+    "url": "https://github.com/kaisershad/stiluscode/issues"
   },
-  "homepage": "https://github.com/kaisershad/stilus-code",
+  "homepage": "https://github.com/kaisershad/stiluscode",
   "scripts": {
     "build": "yarn run clean-dist && webpack -p --config=configs/webpack/prod.js",
     "clean-dist": "rm -f -r -d dist",
